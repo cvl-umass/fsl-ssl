@@ -1,0 +1,13 @@
+__pycache__/*
+*/__pycache__/*
+checkpoints/*
+features/*
+filelists/miniImagenet/ILSVRC2015/*
+filelists/CUB/images
+filelists/CUB/images_cropped
+filelists/cars/images
+filelists/aircrafts/images
+filelists/CUB/CUB_200_2011
+filelists/flowers/images
+filelists/dogs/images
+filelists/tieredImagenet/ILSVRC2015/*

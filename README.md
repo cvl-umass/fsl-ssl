@@ -5,7 +5,7 @@ This repo contains the source code of the paper:
 "[When Does Self-supervision Improve Few-shot Learning?](https://arxiv.org/abs/1910.03560)", 
 Jong-Chyi Su, Subhransu Maji, Bharath Hariharan, ECCV, 2020. <br>
 
-[Project page](https://people.cs.umass.edu/~jcsu/papers/fsl_ssl/), [arXiv](https://arxiv.org/abs/1910.03560), [slides](https://people.cs.umass.edu/~jcsu/papers/fsl_ssl/long_video_slides.pdf)
+[Project page](https://people.cs.umass.edu/~jcsu/papers/fsl_ssl/), [arXiv](https://arxiv.org/abs/1910.03560), [slides](http://supermoe.cs.umass.edu/fsl_ssl/long_video_slides.pdf)
 
 ![Combining supervised and self-supervised losses for few-shot learning](figs/overview5.png)
 

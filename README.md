@@ -52,6 +52,7 @@ Next, set `--dataset_unlabel` and `--base_unlabel` to the name of the json file.
 
 ```python train_separate.py --dataset CUB --dataset_unlabel CUB --base base_20 --base_unlabel base --jigsaw --lbda 0.5 --lr 0.001 --train_aug --n_query 5 --stop_epoch 600 --bs 64```
 
+Note: For Mini-ImageNet and Tiered-Imagenet, please train the model for 600 epochs. For other datasets, 400 epochs are enough.
 
 ## Author
 Jong-Chyi Su (UMass Amherst) `jcsu@cs.umass.edu`
